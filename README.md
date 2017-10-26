@@ -11,5 +11,3 @@ This repo is used for the purposes of my MSc. Thesis at the Technical University
 - [ ] Study Android Security Slides
 - [ ] Get GroddDroid/Jona's framework running with simple app
 
-### 27.10 - 02.11
-
