@@ -8,12 +8,12 @@ Detailed proposal can be found [here.](https://www22.in.tum.de/fileadmin/w00bwn/
 
 ## Tasks
 
-#### 19.10 - 27.10
+#### 19.10.2017 - 27.10.2017
 - [x] Read Jona's Thesis
 - [x] Study Android Security Slides
 - [x] Get GroddDroid/Jona's framework running with simple app
 
-#### 27.10 - 09.11
+#### 27.10.2017 - 09.11.2017
 - [ ] Look into GenyMotion
 - [ ] Dive into FuzzDroid - setup inputs/outputs
 - [ ] Setup teamViewer / run Phenax (checkout main.py) Note: Dataset is in `/IO`
