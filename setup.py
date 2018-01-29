@@ -20,6 +20,8 @@ setup(
     author_email='emirdemirdag@gmail.com',
     url='https://github.com/demirdagemir/thesis',
     license=license,
-    packages=find_packages(exclude=('tests', 'docs'))
+    packages=find_packages(exclude=('tests', 'docs')),
+    dependency_links=['https://github.com/demirdagemir/aion'],
+    install_requires=['Aion']
 )
 
