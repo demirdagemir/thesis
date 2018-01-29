@@ -6,7 +6,7 @@ This repo is used for the purposes of my MSc. Thesis at the Technical University
 
 Detailed proposal can be found [here.](https://www22.in.tum.de/fileadmin/w00bwn/www/thesis_proposals/salem/Comparing_Stimulation_Techniques_for_Repackaged_Malware_Detection.pdf) 
 
-## Tasks
+## Tasks (will be updated later on)
 
 #### 19.10.2017 - 27.10.2017
 - [x] Read Jona's Thesis
