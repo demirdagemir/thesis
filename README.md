@@ -1,4 +1,4 @@
-# Comparing Stimulation Techniques for Detecting Android Piggybacked Malware
+# Comparing Application Stimulation Techniques for Repackaged Malware Detection in Android
 
 This repo is used for the purposes of my MSc. Thesis at the Technical University of Munich.
 
@@ -6,19 +6,6 @@ This repo is used for the purposes of my MSc. Thesis at the Technical University
 
 Detailed proposal can be found [here.](https://www22.in.tum.de/fileadmin/w00bwn/www/thesis_proposals/salem/Comparing_Stimulation_Techniques_for_Repackaged_Malware_Detection.pdf) 
 
-## Tasks (will be updated later on)
-
-#### 19.10.2017 - 27.10.2017
-- [x] Read Jona's Thesis
-- [x] Study Android Security Slides
-- [x] Get GroddDroid/Jona's framework running with simple app
-
-#### 27.10.2017 - 09.11.2017
-- [ ] Look into GenyMotion
-- [ ] Dive into FuzzDroid - setup inputs/outputs
-- [ ] Setup teamViewer / run Phenax (checkout main.py) Note: Dataset is in `/IO`
-- [ ] Study coverage of branches
-- [ ] Checkout IntelliDroid / FlowDroid
-- [ ] How to setup DB?
+### Final report can be found [here.](https://github.com/demirdagemir/thesis/blob/master/Comparing%20Application%20Stimulation%20Techniques%20for%20Repackaged%20Malware%20Detection%20in%20Android.pdf)
 
 
